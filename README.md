@@ -9,4 +9,5 @@ Error Message can be ignored:<br>
 ![image](https://user-images.githubusercontent.com/103757105/229263412-333acb3f-1099-41b1-bcf0-a0c97569df6b.png)
 <br>
 
-Base Source Code Credit: Berkay Topuz
+Base Source Code Credit: Berkay Topuz (open-source on Steam Workshop)
+Edited by: Deep Patel (for personal usage)
